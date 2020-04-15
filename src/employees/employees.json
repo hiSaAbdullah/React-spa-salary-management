@@ -1,0 +1,68 @@
+[
+    {
+        "name" : "Md Rana",
+        "photo" : "https://i.ibb.co/c2stD8s/rana.jpg",
+        "designation" : "Graphics Designer",
+        "salary" : "25000"
+    },
+    {
+        "name" : "SA Abdullah",
+        "photo" : "https://i.ibb.co/LrJbP6p/SA-Abdullah.jpg",
+        "designation" : "Web Developer",
+        "salary" : "20000"
+    },
+    {
+        "name" : "Kefayetur Rahman",
+        "photo" : "https://i.ibb.co/F7R01qv/kefayet-bondu-amar.jpg",
+        "designation" : "Doctor",
+        "salary" : "20000"
+    },
+    {
+        "name" : "Mamun Hossain",
+        "photo" : "https://i.ibb.co/985C92q/mamun-bondu.jpg",
+        "designation" : "Graphics Designer",
+        "salary" : "25000"
+    },
+    {
+        "name" : "Raisul islam Rafi",
+        "photo" : "https://i.ibb.co/PMd442J/raisul-islam-rafi-bondu.jpg",
+        "designation" : "Content Writer",
+        "salary" : "15000"
+    },
+    {
+        "name" : "Bablu ahmed",
+        "photo" : "https://i.ibb.co/7tny3GV/bablu-bondu.jpg",
+        "designation" : "Jr. Executive",
+        "salary" : "9000"
+    },
+    {
+        "name" : "Zr.Dewan",
+        "photo" : "https://i.ibb.co/wC5NbGZ/kamal-bondu.jpg",
+        "designation" : "Assistent Officer",
+        "salary" : "10000"
+    },
+    {
+        "name" : "Rion Al Noman",
+        "photo" : "https://i.ibb.co/cCk7PfK/bondu-rion.jpg",
+        "designation" : "Cyber Security Expart",
+        "salary" : "10000"
+    },
+    {
+        "name" : "Md Yakub Hossain Khan",
+        "photo" : "https://i.ibb.co/71bfXnB/Roni-Yakub-khan.jpg",
+        "designation" : "Web Designer",
+        "salary" : "15000"
+    },
+    {
+        "name" : "Sadman sakib bin salah",
+        "photo" : "https://i.ibb.co/R2FX0v7/sadman-bondu.jpg",
+        "designation" : "English Expart",
+        "salary" : "23000"
+    },
+    {
+        "name" : "Mehedi Hasan Pavel",
+        "photo" : "https://i.ibb.co/pb4FbVW/pavel-bondu-navy.jpg",
+        "designation" : "Bangladesh Navy",
+        "salary" : "16000"
+    }
+]
